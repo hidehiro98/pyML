@@ -7,9 +7,9 @@
 ## Table of Contents
 
 ### Folders
-lecture: live lecture notes from Naoya
-notes: my notes
-raschka: my notes for Raschka book
+* lecture: live lecture notes from Naoya
+* notes: my notes
+* raschka: my notes for Raschka book
 
 ### Files
 | File name | Contents | Corresponding Raschka chapter |
@@ -27,7 +27,7 @@ raschka: my notes for Raschka book
 | fruit.ipynb | 画像分析（フルーツ分類） with Keras | N/A |
 | keras2.ipynb | CIFAR-10データの学習 with Keras（転移学習、Data augumentatio） | N/A |
 | linearregression.ipynb | 回帰分析 (same as chapter6.ipynb) | Chaper 10 |
-| optimization.ipynb | 目的関数の最適化（ロジスティック回帰の尤度関数、勾配法） | N/A |
+| optimization.ipynb | 目的関数の最適化（ロジスティック回帰の尤度関数、勾配法） | Chapter 2, 3 |
 | perceptron.ipynb | 単純パーセプトロン (same as 1st_lecture.ipynb) | Chapter 2 |
 | rnn.ipynb | RNN with Keras | N/A |
 | tfidf.ipynb | TFIDF with Keras | Chapter 8 |
