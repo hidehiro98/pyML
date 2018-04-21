@@ -19,12 +19,12 @@ raschka: my notes for Raschka book
 | 3rd_lecture.ipynb | モデルの評価とチューニング（評価指標、交差検証法、検証曲線、グリッドサーチ、学習曲線、バイアスとバリアンス） | Chapter 6 |
 | 4th_lecture.ipynb | 前処理と特徴量選択（特徴量選択、主成分分析、カーネル主成分） | Chapter 4, 5 |
 | 5th_lecture.ipynb | クラスタリング（k-means、階層クラスタ木、DBSCAN、混合Gaussian） | Chapter 11 |
-| Keras.ipynb | Keras入門（MNIST, CNN etc.） | N/A |
+| Keras.ipynb | Keras入門（MNIST, CNN etc.） | Chapter 12 |
 | chapter6.ipynb | 回帰分析（単回帰、重回帰、最尤法、ロバスト回帰） | Chaper 10 |
-| chapter7.ipynb | Theano入門 | N/A |
-| chapter8.ipynb | Keras入門 (Keras.ipynb) | N/A |
+| chapter7.ipynb | Theano入門 | Chapter 13 |
+| chapter8.ipynb | Keras入門 (same as Keras.ipynb) | Chapter 12 |
 | ensemble.ipynb | アンサンブル学習（ランダムフォレスト、バギング、ブースティング） | Chapter 7 |
-| fruit.ipynb | 画像分析 with Keras | N/A |
+| fruit.ipynb | 画像分析（フルーツ分類） with Keras | N/A |
 | keras2.ipynb | CIFAR-10データの学習 with Keras（転移学習、Data augumentatio） | N/A |
 | linearregression.ipynb | 回帰分析 (same as chapter6.ipynb) | Chaper 10 |
 | optimization.ipynb | 目的関数の最適化（ロジスティック回帰の尤度関数、勾配法） | N/A |
